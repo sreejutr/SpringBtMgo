@@ -2,7 +2,12 @@ package org.ssoft.learning.spring.mongodb.domain;
 
 import org.springframework.data.annotation.Id;
 
-
+/**
+ * 
+ * 
+ * @author sreeju
+ *
+ */
 public class Customer {
 
     @Id
