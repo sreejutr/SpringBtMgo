@@ -6,7 +6,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.ssoft.learning.spring.mongodb.domain.Customer;
 import org.ssoft.learning.spring.mongodb.repo.CustomerRepository;
-
+//comments
 @SpringBootApplication
 public class Application implements CommandLineRunner {
 
